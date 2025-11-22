@@ -1,0 +1,5 @@
+{
+  "name": "Terminal 2142: Skill Uplink",
+  "description": "A Cassette Futurism styled terminal for learning technical skills (Docker, K8s, Linux, Git, PSQL) via AI-generated future scenarios.",
+  "requestFramePermissions": []
+}
